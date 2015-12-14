@@ -1,5 +1,5 @@
 <?php
 
-echo "github is here!!";
+echo "github is here!!"
 exit;
 ?>
